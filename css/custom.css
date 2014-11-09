@@ -137,15 +137,6 @@ h3.sectionTitle {
 	color: #fff;
 	margin-bottom: 0;
 }
-.jumbotron .mobile {
-	background-image: url("../assets/img/mobile.png");
-    background-repeat: no-repeat;
-    height: 499px;
-    margin-left: 0px;
-    margin-top: 0;
-    overflow: hidden;
-    width: auto;
-}
 .jumbotron h1 {
 	color: #fff;
     font-size: 72px;
@@ -350,7 +341,7 @@ h3.sectionTitle {
 	padding-bottom: 60px;
 }
 #contactWrap .overlay {
-    background: url("../assets/img/60.png");
+#    background: url("../assets/img/60.png");
 	padding-bottom: 60px;
 }
 #contactWrap h2.sectionTitle {
