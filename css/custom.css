@@ -498,3 +498,10 @@ footer .social a .fa-inverse {
 .quote a {
     color:#FFFFFF;
 }
+
+.list-group-item {
+    display: list-item;
+    border: 0px solid;
+    padding:0px;
+    font-size: 28px;
+}
