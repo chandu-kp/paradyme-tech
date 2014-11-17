@@ -1,0 +1,212 @@
+body{
+border-top:7px solid #bf282b;
+font-family: 'Open Sans', sans-serif;
+}
+.header-social-icons{
+float:right;
+margin-top:5px;
+}
+.contactme{
+float:right;
+width:100%;
+}
+.btnContact{
+float:right;
+background-color:#bf282b;
+border-bottom-color:2px solid #8f0000;
+color:#fff;
+width:150px;
+margin-top:5px;
+}
+.btnContact:hover{
+background-color:#bf282b;
+border-bottom-color:2px solid #8f0000;
+color:#fff;
+}
+.header_class{
+background-color:none;
+}
+.header_class ul{
+height:30px;
+}
+.header_class ul li{
+color:#000;
+padding-left:30px;
+}
+.navbar-toggle .icon-bar{
+border:1px solid #000;
+}
+.nav > li > a:hover, .nav > li > a:focus{
+background-color:transparent!important;
+border-bottom:5px solid #008a53;
+}
+.header_class ul  li a{
+color:#1c1c1c;
+font-size:18px;
+font-weight:bold;
+}
+.newsImg1{
+background-image:url("../img/FOOD FOR THOUGHT_BW.jpg");
+width:100%;
+height:180px;
+background-repeat:no-repeat;
+background-size:contain;
+}
+.newsImg1:hover{
+background-image:url("../img/Apple.jpg");
+background-size:cover;
+}
+.newsImg2{
+background-image:url("../img/ACTION STEPS BW.jpg");
+width:100%;
+height:180px;
+background-repeat:no-repeat;
+background-size:contain;
+}
+.newsImg2:hover{
+background-image:url("../img/actions_steps.jpg");
+background-size:cover;
+}
+.newsImg3{
+background-image:url("../img/TRENDS_BW.jpg");
+width:100%;
+background-size:contain;
+background-repeat:no-repeat;
+height:180px;
+}
+.newsImg3:hover{
+background-image:url("../img/corporate_health_packages_small_square.jpg");
+background-size:cover;
+}
+.news-text{
+min-height:120px;
+}
+.news-text h4{
+color:#008a53;
+}
+.news-text p{
+color:#806e73;
+}
+.left-contents h5{
+color:#806e73;
+font-weight:bold;
+text-transform:uppercase;
+}
+.sidebar1,.sidebar2,.sidebar3{
+width:100%;
+float:left;
+margin-bottom:20px;
+}
+.sidebar1 h4{
+color:#008a53;
+font-size:18px;
+font-weight:bold;
+}
+.sidebar1 li img{
+float:left;
+}
+
+.sidebar1 a{
+color:#008a53;
+background-color:#f0f0f0;
+padding-top:15px;
+padding-bottom:13px;
+padding-left:15px;
+padding-right:15px;
+width:211px;
+float:right;
+font-size:14px;
+}
+.sidebar1 ul  li{
+list-style-type:none;
+margin-top:2px;
+float:left;
+}
+.sidebar1 ul {
+padding:0px;
+}
+.sidebar2 h3{
+background-color:#008a53;
+color:#fff;
+float:left;
+font-size:16px;
+font-weight:bold;
+width:auto;
+margin-right:2px;
+margin-top:2px;
+margin-bottom:0px;
+padding:5px;
+}
+.sidebar3{
+background-color:#008a53;
+padding:20px;
+color:#fff;
+}
+.sidebar3 ul li {
+font-size:16px;
+} 
+.sidebar3 ul{
+padding-left:20px;
+} 
+.sidebar3 .contactme button{
+background-color:#14b598;
+border-bottom:2px solid #008568;
+float:left;
+}
+.footerContents{
+background-color:#626466;
+float:left;
+width:100%;
+color:#fff;
+padding-bottom:20px;
+border-bottom:7px solid #1c1c1c;
+}
+.footerContents h5{
+margin-top:20px;
+font-size:16px;
+font-weight:bold;
+
+}
+.footerContents h6{
+font-size:15px;
+margin-bottom:0px;
+margin-top:20px;
+}
+.footerContents h6 span{
+font-size:12px;
+}
+.footerContents  a{
+color:#fff;
+}
+.footerContents ul{
+padding-left:15px;}
+
+.stylefooterblock{
+border-right:2px dashed #fff;
+margin-top:20px;
+}
+.footer-social-icons{
+margin-top:15px;
+border-top:2px dashed #fff;
+}
+.footerContents  .block2 ul{
+margin-top:20px;
+}
+.footerContents .block4  a {
+text-decoration:underline;
+}
+.footerContents .block4 h4{
+margin-top:30px;
+float:left;
+}
+.footerContents .block4 h6{
+margin-top:35px;
+margin-bottom:30px;
+}
+.footerContents .block4  img{
+width:80px;
+height:70px;
+float:left;
+margin-right:5px;
+margin-bottom:10px;
+}
